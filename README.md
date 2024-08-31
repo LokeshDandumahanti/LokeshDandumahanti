@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://dlokesh5132.wixsite.com/my-site-7](https://dlokesh5132.wixsite.com/my-site-7)
 
+- My Leetcode Profile : https://leetcode.com/u/loki_matty/
+
 - 📫 How to reach me **dlokesh5132@gmail.com**
 
 - ⚡ Fun fact **I am actually using AI and Knowledge transfer through my friends to speeden up my learning rate. That's the reason why I could enter and excel in multiple fields like Machine learning, Deep Learning, Data Analytics, OpenCV, LLM Development etc.**
